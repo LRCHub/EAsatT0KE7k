@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Raise your flag",
+  "base_artist": "MAN WITH A MISSION",
+  "createdAt": "2026-02-10T10:32:54.072560Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Raise Your Flag",
+      "artist": "Pretty Maids",
+      "has_synced": false,
+      "path": "select/01_Raise_Your_Flag_Pretty_Maids.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Raise your flag",
+      "artist": "MAN WITH A MISSION",
+      "has_synced": false,
+      "path": "select/02_Raise_your_flag_MAN_WITH_A_MISSION.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Raise Your Flag",
+      "artist": "Pop Evil",
+      "has_synced": true,
+      "path": "select/03_Raise_Your_Flag_Pop_Evil.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Raise Your Flag (Album Version)",
+      "artist": "Pretty Maids",
+      "has_synced": false,
+      "path": "select/04_Raise_Your_Flag_(Album_Version)_Pretty_Maids.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Raise Your Flag",
+      "artist": "Chrome Division",
+      "has_synced": true,
+      "path": "select/05_Raise_Your_Flag_Chrome_Division.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Raise Your Flag",
+      "artist": "KZ Tandingan",
+      "has_synced": true,
+      "path": "select/06_Raise_Your_Flag_KZ_Tandingan.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Raise your flag",
+      "artist": "Man With A Mission",
+      "has_synced": false,
+      "path": "select/07_Raise_your_flag_Man_With_A_Mission.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Raise Your Flag",
+      "artist": "KZ Tandingan x Kritiko",
+      "has_synced": true,
+      "path": "select/08_Raise_Your_Flag_KZ_Tandingan_x_Kritiko.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Raise Your Flag",
+      "artist": "KZ Tandingan & Kritiko",
+      "has_synced": true,
+      "path": "select/09_Raise_Your_Flag_KZ_Tandingan_&_Kritiko.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Raise your flag",
+      "artist": "Man With A Mission",
+      "has_synced": true,
+      "path": "select/10_Raise_your_flag_Man_With_A_Mission.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Raise your flag",
+      "artist": "MAN WITH A MISSION",
+      "has_synced": false,
+      "path": "select/pl_01_Raise_your_flag_MAN_WITH_A_MISSION.txt"
+    }
+  ]
+}
