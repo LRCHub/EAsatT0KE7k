@@ -1,0 +1,81 @@
+# MAN WITH A MISSION – Raise your flag
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Under pressure you are waiting for the direction
+Going on the road without your mind
+All mislead they give ignoring out all decisions
+Killing yourself your soul we have inside
+No one else but you are I'm waiting for
+We can start it on just right here right now
+Fear and circulation
+But I am ready now
+We can struggle and muzzle the world before it fades away
+
+Raise your flag
+Koe no kagiri, koe no kagiri
+Koe no kagiri sakende
+Kitto itsuka, itsuka dokoka
+Tadori tsuku to shinjite
+
+Come on and raise your flag
+So just raise your flag
+Nando kujike mayoedo
+Iki no kagiri tsuzuku kagiri
+Yume wo mitsuzuke samayou
+
+All mistakes I made are blurring my reflection
+And it is more than I achieved so far
+Taking this ship or not depends on your intention
+To be the soldier or one bystander
+
+Agaki tsuzuke taore kujike
+Hai agatte hashiri tsuzukete
+Owari naki yume no ma to ma
+We can struggle and muzzle the world before it fades away
+
+Raise your flag
+Koe no kagiri, koe no kagiri
+Koe no kagiri sakende
+Kitto itsuka, itsuka dokoka
+Tadori tsuku to shinjite
+
+Come on and raise your flag
+So just raise your flag
+Nando kujike mayoedo
+Iki no kagiri tsuzuku kagiri
+Yume wo mitsuzuke samayou
+
+When is the time?
+It's up to your own decision
+The time to find
+To struggle and prove our vision
+
+When is the time?
+To end all the false collision
+The time to find
+And we'll move to the new division
+
+When is the time?
+It's up to your own decision
+The time to find
+To struggle and prove our vision
+
+So raise your flag
+So raise your flag
+So raise your flag
+And we'll move to the new division
+
+Raise your flag
+Koe no kagiri, koe no kagiri
+Koe no kagiri sakende
+Kitto itsuka, itsuka dokoka
+Tadori tsuku to shinjite
+
+Come on and raise your flag
+So just raise your flag
+Nando kujike mayoedo
+Iki no kagiri tsuzuku kagiri
+Yume wo mitsuzuke samayou
+```
